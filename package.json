@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/purifycss/gulp-purifycss.git"
+    "url": "https://github.com/riklewis/gulp-purifycss.git"
   },
   "keywords": [
     "gulpplugin",
     "css",
     "purify"
   ],
-  "author": "Phoebe Li, Matthew Rourke, Kenny Tran",
+  "author": "Phoebe Li, Matthew Rourke, Kenny Tran, Rik Lewis",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/purifycss/gulp-purifycss/issues"
+    "url": "https://github.com/riklewis/gulp-purifycss/issues"
   },
-  "homepage": "https://github.com/purifycss/gulp-purifycss",
+  "homepage": "https://github.com/riklewis/gulp-purifycss",
   "devDependencies": {
   },
   "dependencies": {
