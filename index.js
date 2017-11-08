@@ -2,7 +2,7 @@ var through = require('through2');
 var glob = require('glob');
 var gutil = require('gulp-util');
 var PluginError = gutil.PluginError;
-var purify = require('purify-css');
+var purify = require('../purifycss'); /* use locally modified version */
 
 const PLUGIN_NAME = 'gulp-purifycss';
 
