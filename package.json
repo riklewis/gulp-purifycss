@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "glob": "^7.1.4",
-    "through2": "^3.0.1",
+    "through2": "^4.0.1",
     "gulp-util": "^3.0.5",
     "purify-css": "^1.0.8"
   }
